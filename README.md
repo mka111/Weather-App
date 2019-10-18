@@ -8,3 +8,4 @@ Google Places API was used for the location autocomplete in the search bar.</br>
 The background of the app changes according to the weather summary, for ex: sunny, rainy, cloudy etc.</br>
 
 Below is the screenshot from the weather App:</br>
+
