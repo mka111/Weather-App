@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Forecast</string>
+    <string name="dialog_error_title">OOPS</string>
+    <string name="dialog_error_message">There is an error. Please try again</string>
+    <string name="dialog_positioveButton">OK</string>
+    <string name="network_toast_message">Please check your network</string>
+    <string name="api_key">AIzaSyCVRQyCbndMtD1AzMosULEAOEcQ6zdIj5M</string>
+</resources>
