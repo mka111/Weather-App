@@ -9,4 +9,4 @@ The background of the app changes according to the weather summary, for ex: sunn
 
 Below is the screenshot from the weather App:</br>
 
-![Image description](link-to-image)
+![Image description](https://user-images.githubusercontent.com/22462257/67133813-6e1fb800-f1c3-11e9-8a52-48e71dd170d0.png)
